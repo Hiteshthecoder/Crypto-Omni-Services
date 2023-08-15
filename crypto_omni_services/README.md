@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Hey There This Is A Web3 Based Flutter App.
 
-A few resources to get you started if this is your first Flutter project:
+In This App You Can Transfer Crypto Currencies And Can Exchange NFTs,So What Are You Waiting For Install And Try It:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
