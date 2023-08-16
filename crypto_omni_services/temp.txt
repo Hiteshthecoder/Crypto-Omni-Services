@@ -1,0 +1,8 @@
+websites used in this project for api services.
+1. opeasea Api:-for showing NFTs
+2. Nft Tokens:-coin market cap
+3.crypto currency tokens Api Key:-f5e2bf8e-3e9f-4416-84ad-3fdebc9b9450
+4.NFT Api Key:-2d4d66b1d6cf424e893d91558dec229c
+
+alternatives stacks for api services for our app
+1.alchemy api:-o34FvpuWEzhgYPIg3WdUlyEG1lC5CeFR
